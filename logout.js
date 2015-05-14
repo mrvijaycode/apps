@@ -1,5 +1,5 @@
 function main() {
-	alert('welcome to the app');
+	//alert('welcome to the app');
 
 	if (typeof SP !== 'undefined') {
 		var ctx = new SP.ClientContext.get_current();
